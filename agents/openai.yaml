@@ -1,0 +1,4 @@
+interface:
+  display_name: "You and I"
+  short_description: "八字看姻缘、婚期与合婚，内置确定性排盘引擎"
+  default_prompt: "使用 $youandi 排我的八字，看看姻缘、配偶特征和婚期。"

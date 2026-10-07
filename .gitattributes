@@ -1,0 +1,7 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Binary
+*.pyc binary
+*.png binary
+*.jpg binary

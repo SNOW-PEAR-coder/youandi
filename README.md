@@ -25,7 +25,7 @@ LLM 手动排八字有系统性错误，最常见的三类：
 作为 Codex skill 使用，把本目录放到 skills 路径下：
 
 ```bash
-git clone https://github.com/<your-name>/youandi.git ~/.codex/skills/youandi
+git clone https://github.com/SNOW-PEAR-coder/youandi.git ~/.codex/skills/youandi
 ```
 
 Windows 对应目录为 `%USERPROFILE%\.codex\skills\youandi`。
